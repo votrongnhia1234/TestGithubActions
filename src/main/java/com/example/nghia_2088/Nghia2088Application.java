@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Nghia2088Application {
 
 	public static void main(String[] args) {
+		// aaaaa
 		SpringApplication.run(Nghia2088Application.class, args);
 	}
 
